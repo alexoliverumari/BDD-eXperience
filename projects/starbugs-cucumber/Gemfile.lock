@@ -41,7 +41,7 @@ GEM
     cucumber-messages (22.0.0)
     cucumber-tag-expressions (6.1.0)
     diff-lcs (1.5.1)
-    ffi (1.16.3-x64-mingw-ucrt)
+    ffi (1.17.0-x64-mingw-ucrt)
     matrix (0.4.2)
     mini_mime (1.1.5)
     multi_test (1.1.0)
