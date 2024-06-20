@@ -1,1 +1,1 @@
-default: --publish-quiet --color --format pretty
+default: --publish-quiet --color --format progress -f html -o logs/report.html
